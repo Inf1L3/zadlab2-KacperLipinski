@@ -29,7 +29,7 @@ public class Zad3467 {
  do{
  System.out.println("1.Wyświetlanie tablicy od pierwszego do ostatniego indeksu.\n" +
 "2.Wyświetlanie tablicy od ostatniego do pierwszego indeksu.\n" +
-"3.Wyświetlanie elementów o nieparzystych indeksach.\n" +
+"3.Wyświetlanie elementów o nieparzystych  indeksach.\n" +
 "4.Wyświetlanie elementów o parzystych indeksach.\n"+"5.Wyjście z programu"); 
   a= wej.nextInt();
 
