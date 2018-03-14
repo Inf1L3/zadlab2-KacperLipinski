@@ -27,7 +27,7 @@ public class Zad3467 {
     tab[i]= wej.nextDouble();
      } 
  do{
- System.out.println("1.Wyświetlanie tablicy od pierwszego do ostatniego indeksu.\n" +
+ System.out.println("1.Wyświetlaniee tablicy od pierwszego do ostatniego indeksu.\n" +
 "2.Wyświetlanie tablicy od ostatniego do pierwszego indeksu.\n" +
 "3.Wyświetlanie elementów o nieparzystych  indeksach.\n" +
 "4.Wyświetlanie elementów o parzystych indeksach.\n"+"5.Wyjście z programu"); 
